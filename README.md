@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shauravparajuli123](https://github.com/Shauravparajuli123)
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,PHP,REACT,ANGULAR**
 
 - 📫 How to reach me **parajulishaurav8@gmail.com**
 
